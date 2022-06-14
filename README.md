@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gitinsouciant
+- 👀 I’m interested in creating cool apps for niche uses
+- 🌱 I’m currently learning Typescript and NextJs
+- 💞️ I’m looking for cool people to give me honest feedback on my work
+- 📫 How to reach me: insouciantworld@gmail.com
